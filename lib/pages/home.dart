@@ -69,7 +69,7 @@ class _HomePageState extends State<HomePage> {
                               onTap: () {
                                 setState(
                                   () {
-                                    dish = "chicken";
+                                    dish = "ladoo";
                                   },
                                 );
                               },
